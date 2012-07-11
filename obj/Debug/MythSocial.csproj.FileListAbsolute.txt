@@ -3,3 +3,8 @@ c:\Users\ghukas.ghukasyan\Documents\Visual Studio 2010\Projects\MythSocial\MythS
 c:\Users\ghukas.ghukasyan\Documents\Visual Studio 2010\Projects\MythSocial\MythSocial\obj\Debug\ResolveAssemblyReference.cache
 c:\Users\ghukas.ghukasyan\Documents\Visual Studio 2010\Projects\MythSocial\MythSocial\obj\Debug\MythSocial.dll
 c:\Users\ghukas.ghukasyan\Documents\Visual Studio 2010\Projects\MythSocial\MythSocial\obj\Debug\MythSocial.pdb
+C:\Users\ghukas.ghukasyan\Development\Git\MythSocial\bin\MythSocial.dll
+C:\Users\ghukas.ghukasyan\Development\Git\MythSocial\bin\MythSocial.pdb
+C:\Users\ghukas.ghukasyan\Development\Git\MythSocial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ghukas.ghukasyan\Development\Git\MythSocial\obj\Debug\MythSocial.dll
+C:\Users\ghukas.ghukasyan\Development\Git\MythSocial\obj\Debug\MythSocial.pdb
