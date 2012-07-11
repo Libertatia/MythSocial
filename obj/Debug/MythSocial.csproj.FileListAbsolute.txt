@@ -1,0 +1,5 @@
+c:\Users\ghukas.ghukasyan\Documents\Visual Studio 2010\Projects\MythSocial\MythSocial\bin\MythSocial.dll
+c:\Users\ghukas.ghukasyan\Documents\Visual Studio 2010\Projects\MythSocial\MythSocial\bin\MythSocial.pdb
+c:\Users\ghukas.ghukasyan\Documents\Visual Studio 2010\Projects\MythSocial\MythSocial\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\ghukas.ghukasyan\Documents\Visual Studio 2010\Projects\MythSocial\MythSocial\obj\Debug\MythSocial.dll
+c:\Users\ghukas.ghukasyan\Documents\Visual Studio 2010\Projects\MythSocial\MythSocial\obj\Debug\MythSocial.pdb
