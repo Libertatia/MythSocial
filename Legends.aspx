@@ -4,8 +4,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    
     <p>
-        <image ID="ImgZeus" src="http://media.comicvine.com/uploads/12/123967/2391284-zeus.jpg" /></image></p>
-    
+        <img id="zeusMain" src="Styles/Images/ZeusMainImage.jpg" />
+   </p>
 </asp:Content>
