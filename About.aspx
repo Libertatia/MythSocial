@@ -14,6 +14,6 @@
        This is my content(Knarik).
     </p>
     <p>
-      Anushi xatr :D
+      Anushi xtr :D
     </p>
 </asp:Content>
