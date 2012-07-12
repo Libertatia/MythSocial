@@ -8,3 +8,8 @@ C:\Users\ghukas.ghukasyan\Development\Git\MythSocial\bin\MythSocial.pdb
 C:\Users\ghukas.ghukasyan\Development\Git\MythSocial\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\ghukas.ghukasyan\Development\Git\MythSocial\obj\Debug\MythSocial.dll
 C:\Users\ghukas.ghukasyan\Development\Git\MythSocial\obj\Debug\MythSocial.pdb
+D:\Projects\MythSocial\bin\MythSocial.dll
+D:\Projects\MythSocial\bin\MythSocial.pdb
+D:\Projects\MythSocial\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MythSocial\obj\Debug\MythSocial.dll
+D:\Projects\MythSocial\obj\Debug\MythSocial.pdb

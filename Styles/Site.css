@@ -292,3 +292,8 @@ div.accountInfo
     text-align: right;
     padding-right: 10px;
 }
+
+#zeusMain{
+    width: 380px;
+    height: 360px;
+}
